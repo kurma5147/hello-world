@@ -27,10 +27,7 @@ Course :
 <option value="MBA">MBA</option>  
 <option value="MCA">MCA</option>  
 <option value="M.Tech">M.Tech</option>  
-</select>  
-  
-<br>  
-<br>  
+</select>    
 <label>   
 Gender :  
 </label><br>  
